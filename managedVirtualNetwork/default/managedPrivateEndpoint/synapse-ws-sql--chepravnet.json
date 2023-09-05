@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--chepravnet",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b83c1ed3-c5b6-44fb-b5ba-2b83a074c23f/resourceGroups/chpradee-Analytics/providers/Microsoft.Synapse/workspaces/chepravnet",
+		"groupId": "sql",
+		"fqdns": [
+			"chepravnet.9c2ae50c-a174-4831-a7ee-dff861933a22.sql.azuresynapse.net"
+		]
+	}
+}
